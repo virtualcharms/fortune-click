@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@700&display=swap');
+ 
+h1 {
+   font-family: 'Space Mono', monospace;
+   margin: 45px;
+   color: rgba(179, 0, 255, 0.858);
+   font-size: 30px;
+}
+ 
+#stage {
+   margin-left: auto;
+   margin-right: auto;
+}
+ 
+img {
+   margin-left: auto;
+   margin-right: auto;
+}
+ 
+p {
+   font-family: 'Hind Siliguri', sans-serif;
+   font-style: oblique;
+   font-size: 25px;
+   color: #ff1493;
+   margin-top: -425px;
+   margin-left: 190px;
+   /* z-index: 1; */
+}
