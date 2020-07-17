@@ -6,7 +6,7 @@ function changePhase2() {
 	document.getElementById('phase1').src =
 		'https://64.media.tumblr.com/75f2ce017804781fa93097ceee54f457/9d323879c90f2a77-4f/s1280x1920/5359b005a46946eee7e45d3027edfaa0869f5079.png';
 
-	const url = "http://fortunecookieapi.herokuapp.com/v1/cookie";
+	const url = "https://fortunecookieapi.herokuapp.com/v1/cookie";
 
 	fetch(url)
 		.then((res) => {
