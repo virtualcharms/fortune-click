@@ -32,7 +32,7 @@ Canva, HTML, CSS, JavaScript, Fortune Cookie API on herokuapp.com
 - As a user, I would like to reset the app to access another fortune.
 
 #### Silver:
--As a user, I would like to see a variety of images so that the cookie is more interactive.
+- As a user, I would like to see a variety of images so that the cookie is more interactive.
 - As a user, I would like to be able to share my fortune on social media!
 
 #### Gold:
